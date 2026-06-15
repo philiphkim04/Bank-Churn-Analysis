@@ -9,7 +9,7 @@ team could act on.
 **Dataset:** 10,000 retail banking customers across France, Germany, and Spain
 
 📊 **[View the interactive dashboard on Tableau Public →](#)**
-*(replace this link with your Tableau Public URL)*
+
 
 ---
 
