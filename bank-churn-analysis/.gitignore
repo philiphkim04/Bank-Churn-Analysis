@@ -1,0 +1,10 @@
+# Data files (add your own dataset locally)
+*.csv
+*.xlsx
+*.twbx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
