@@ -8,7 +8,7 @@ team could act on.
 **Stack:** SQL (T-SQL / SQL Server) · Tableau Public
 **Dataset:** 10,000 retail banking customers across France, Germany, and Spain
 
-📊 **[View the interactive dashboard on Tableau Public →]** https://public.tableau.com/app/profile/philip.kim4650
+📊 **[View the dashboard on Tableau Public →]** https://public.tableau.com/app/profile/philip.kim4650
 
 
 ---
